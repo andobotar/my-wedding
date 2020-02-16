@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/andobotar/my-wedding/static/css/main.44099696.chunk.css",
-    "main.js": "/andobotar/my-wedding/static/js/main.458298fb.chunk.js",
-    "main.js.map": "/andobotar/my-wedding/static/js/main.458298fb.chunk.js.map",
-    "runtime-main.js": "/andobotar/my-wedding/static/js/runtime-main.4acee9ce.js",
-    "runtime-main.js.map": "/andobotar/my-wedding/static/js/runtime-main.4acee9ce.js.map",
-    "static/js/2.95113314.chunk.js": "/andobotar/my-wedding/static/js/2.95113314.chunk.js",
-    "static/js/2.95113314.chunk.js.map": "/andobotar/my-wedding/static/js/2.95113314.chunk.js.map",
-    "index.html": "/andobotar/my-wedding/index.html",
-    "precache-manifest.7fa8b497ec834f385e4222a760934c58.js": "/andobotar/my-wedding/precache-manifest.7fa8b497ec834f385e4222a760934c58.js",
-    "service-worker.js": "/andobotar/my-wedding/service-worker.js",
-    "static/css/main.44099696.chunk.css.map": "/andobotar/my-wedding/static/css/main.44099696.chunk.css.map",
-    "static/js/2.95113314.chunk.js.LICENSE.txt": "/andobotar/my-wedding/static/js/2.95113314.chunk.js.LICENSE.txt",
-    "static/media/Contacts.module.scss": "/andobotar/my-wedding/static/media/aisle.249edf93.jpg",
-    "static/media/android-logo.png": "/andobotar/my-wedding/static/media/android-logo.f403bc1e.png",
-    "static/media/apple-logo.png": "/andobotar/my-wedding/static/media/apple-logo.5a96c9f5.png",
-    "static/media/chairs.jpg": "/andobotar/my-wedding/static/media/chairs.589793e8.jpg",
-    "static/media/AboutUs.module.scss": "/andobotar/my-wedding/static/media/flowers.c14613d6.jpg",
-    "static/media/Header.module.scss": "/andobotar/my-wedding/static/media/holding-hands.e86cb1f8.jpg"
+    "main.css": "/my-wedding/static/css/main.54fc9ae0.chunk.css",
+    "main.js": "/my-wedding/static/js/main.f67b79f0.chunk.js",
+    "main.js.map": "/my-wedding/static/js/main.f67b79f0.chunk.js.map",
+    "runtime-main.js": "/my-wedding/static/js/runtime-main.0f261d2a.js",
+    "runtime-main.js.map": "/my-wedding/static/js/runtime-main.0f261d2a.js.map",
+    "static/js/2.95113314.chunk.js": "/my-wedding/static/js/2.95113314.chunk.js",
+    "static/js/2.95113314.chunk.js.map": "/my-wedding/static/js/2.95113314.chunk.js.map",
+    "index.html": "/my-wedding/index.html",
+    "precache-manifest.91c65b5dbc36e75f32065bc65cca4b28.js": "/my-wedding/precache-manifest.91c65b5dbc36e75f32065bc65cca4b28.js",
+    "service-worker.js": "/my-wedding/service-worker.js",
+    "static/css/main.54fc9ae0.chunk.css.map": "/my-wedding/static/css/main.54fc9ae0.chunk.css.map",
+    "static/js/2.95113314.chunk.js.LICENSE.txt": "/my-wedding/static/js/2.95113314.chunk.js.LICENSE.txt",
+    "static/media/Contacts.module.scss": "/my-wedding/static/media/aisle.249edf93.jpg",
+    "static/media/android-logo.png": "/my-wedding/static/media/android-logo.f403bc1e.png",
+    "static/media/apple-logo.png": "/my-wedding/static/media/apple-logo.5a96c9f5.png",
+    "static/media/chairs.jpg": "/my-wedding/static/media/chairs.589793e8.jpg",
+    "static/media/AboutUs.module.scss": "/my-wedding/static/media/flowers.c14613d6.jpg",
+    "static/media/Header.module.scss": "/my-wedding/static/media/holding-hands.e86cb1f8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4acee9ce.js",
+    "static/js/runtime-main.0f261d2a.js",
     "static/js/2.95113314.chunk.js",
-    "static/css/main.44099696.chunk.css",
-    "static/js/main.458298fb.chunk.js"
+    "static/css/main.54fc9ae0.chunk.css",
+    "static/js/main.f67b79f0.chunk.js"
   ]
 }
