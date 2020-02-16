@@ -1,0 +1,37 @@
+.container {
+    background-color: lightgray;
+    position: relative;
+}
+
+.middleBox {
+    position: absolute;
+    width: 80%;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: white;
+    text-align: center;
+    font-size: 2.2rem;
+    padding: 1rem 0;
+}
+
+.serviceContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.service {
+    margin: 2rem 4rem;
+    flex: 1;
+
+    &Text {
+        font-size: 1.2rem;
+    }
+}
+
+.img {
+    width: 100%;
+    height: 12.5rem;
+}
